@@ -32,6 +32,8 @@ A table comparing ChatGPT's responses to naïve and basic prompts across all sce
 Analysis of how prompt clarity impacts the quality, accuracy, and depth of ChatGPT’s outputs.
 Summary of findings with insights on how to structure prompts for optimal results when using ChatGPT.
 
+
+# OUTPUT
 Step 1: Define Prompt Types
 
 Naïve Prompt → Short, vague, or underspecified. Leaves interpretation up to the AI.
@@ -138,6 +140,5 @@ To maximize ChatGPT’s performance:
 
 Prompt clarity is the difference between “okay” and “excellent” outputs.
 Naïve prompts are fine for quick answers, but structured, context-rich prompts consistently deliver higher quality, accuracy, and depth—making them the best choice for most real-world tasks.
-# OUTPUT
 
 # RESULT: The prompt for the above said problem executed successfully
