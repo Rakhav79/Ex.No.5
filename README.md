@@ -61,6 +61,7 @@ Step 3: Prompt+Responses
 
 
 Step 4: Evaluation
+
 | **Criteria** | **Naïve Prompts**                                                      | **Basic Prompts**                                           |
 | ------------ | ---------------------------------------------------------------------- | ----------------------------------------------------------- |
 | **Quality**  | Often short, generic, lacking richness.                                | Longer, richer, and tailored to task.                       |
