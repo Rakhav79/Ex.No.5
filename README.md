@@ -131,14 +131,19 @@ When accuracy, completeness, and usability are priorities.
 To maximize ChatGPT’s performance:
 
 ✅ Be specific about the task – clearly state what you want (e.g., summary, explanation, story, list, comparison).
+
 ✅ Provide context – mention the perspective, style, or focus (e.g., “as advice for a college student” or “with emotional depth”).
+
 ✅ Set constraints – length, word count, number of bullet points, examples, or format requirements.
+
 ✅ Guide tone and purpose – e.g., “hopeful ending,” “professional tone,” “simple language.”
+
 ✅ Iterate – refine prompts if results are too broad or shallow.
 
 🎯 Final Takeaway
 
-Prompt clarity is the difference between “okay” and “excellent” outputs.
-Naïve prompts are fine for quick answers, but structured, context-rich prompts consistently deliver higher quality, accuracy, and depth—making them the best choice for most real-world tasks.
+-Prompt clarity is the difference between “okay” and “excellent” outputs.
+
+-Naïve prompts are fine for quick answers, but structured, context-rich prompts consistently deliver higher quality, accuracy, and depth—making them the best choice for most real-world tasks.
 
 # RESULT: The prompt for the above said problem executed successfully
